@@ -1,0 +1,5 @@
+Copyright © 2025 Di Zhao. All Rights Reserved.
+
+Documentation and all associated materials in this folder are protected by copyright law. No part of this documentation may be reproduced, distributed, or transmitted in any form or by any means, including photocopying, recording, or other electronic or mechanical methods, without the prior written permission of the copyright holder, except in the case of brief quotations embodied in critical reviews and certain other noncommercial uses permitted by copyright law.
+
+For permission requests, contact: zhaodi@ict.ac.cn
